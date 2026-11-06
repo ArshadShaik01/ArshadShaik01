@@ -1,90 +1,96 @@
-
 <div align="center">
 
-<img src="hero.gif" alt="Arshad Shaik — Senior Software Engineer working on applied AI and cloud-native systems" width="100%" />
+<img src="hero.gif" alt="Arshad Shaik, Senior Software Engineer — Applied AI and cloud platforms" width="100%" />
 
-<p><strong>SENIOR SOFTWARE ENGINEER</strong> · Applied AI · Cloud Platforms · Distributed Systems</p>
+**SENIOR SOFTWARE ENGINEER** · Applied AI · Cloud Platforms · Distributed Systems
 
-<p>I build intelligent software and dependable infrastructure — making complex systems easier to operate, more secure, and more reliable.</p>
+Building grounded AI applications and dependable infrastructure, with engineering rigor from prototype to production.
 
-<p><a href="https://github.com/ArshadShaik01?tab=repositories"><strong>Explore repositories</strong></a> &nbsp;·&nbsp; <a href="https://github.com/ArshadShaik01"><strong>View GitHub activity</strong></a></p>
+[Explore public repositories](https://github.com/ArshadShaik01?tab=repositories) · [View real GitHub activity](https://github.com/ArshadShaik01)
 
 </div>
 
 ---
 
-### 01 / About
+### 01 / Engineering, with intent
 
-I'm **Arshad Shaik**, a software engineer with **5+ years of experience** across SaaS platforms, full-stack applications, cloud-native services, and applied AI. My work combines **Python, Go, TypeScript, React, Kubernetes, and LLM-driven applications**, with an emphasis on engineering quality and real-world impact.
+I'm **Arshad Shaik** — a Senior Software Engineer with **5+ years** building SaaS platforms, full-stack systems, cloud-native infrastructure, and applied AI solutions. I work across **Python, Go, TypeScript, React, Kubernetes, RAG, and AI agents**, prioritizing production reliability, security, and measurable outcomes.
 
-<img src="focus.svg" alt="Focus areas: grounded AI systems, cloud infrastructure, and production reliability" width="100%" />
+<img src="impact.svg" alt="Resume-reported outcomes: 40 percent less incident investigation time, 60 percent fewer deployment failures, 70 percent faster tenant provisioning" width="100%" />
 
 ### 02 / Selected engineering work
 
-> These are highlights from my professional experience at **Microsoft** and **Capgemini**, not claims that employer source code is available in public repositories.
+<img src="work.svg" alt="Four experience-based case studies: grounded AI assistant, cloud security automation, safer cloud releases, and multi-tenant SaaS APIs" width="100%" />
 
-**AI-powered cloud operations assistant** · Microsoft  
-Built a troubleshooting assistant with **Python, FastAPI, Azure OpenAI, and RAG**, grounding responses in technical documentation, incident histories, and runbooks. Added **LangChain, LangGraph, and MCP** workflows for secure tooling and evaluation. **Reduced incident investigation time by 40%.**
+> **Professional experience, not public source code.** These are engineering highlights from Microsoft and Capgemini; they are not links to proprietary employer repositories.
 
-**Kubernetes security automation** · Microsoft  
-Developed a **Go-based admission controller and operator** for Azure Key Vault secret rotation and Azure Policy enforcement, alongside infrastructure provisioning with **AKS, Terraform, and Bicep**.
+**01 · Grounded cloud-operations assistant — Microsoft**  
+Developed an AI-assisted troubleshooting workflow using **Python, FastAPI, Azure OpenAI, and RAG** over technical documentation, incident histories, and runbooks. Built agent workflows with **LangChain, LangGraph, and MCP**, including evaluation of retrieval and response quality. **Reported impact:** ~40% shorter incident investigations.
 
-**Safer cloud releases** · Microsoft  
-Improved container delivery with readiness gates and canary deployments, **reducing deployment failures by 60%** and release lead time by **30%**. Strengthened production observability with **Prometheus, Grafana, and OpenTelemetry**.
+**02 · Kubernetes security automation — Microsoft**  
+Developed a **Go-based admission controller and operator** using Azure Key Vault and Azure Policy for secret lifecycle and policy enforcement. Supported cloud provisioning using **AKS, Terraform, and Bicep**.
 
-**Multi-tenant SaaS services** · Capgemini  
-Built **Go and Node.js** APIs for CRM and CMS integrations, supporting **50,000 requests per minute at peak** and **40% higher throughput**. Collaborated on **TypeScript and React** full-stack features.
+**03 · Reliable release engineering — Microsoft**  
+Improved canary delivery, readiness gates, and observability using **Prometheus, Grafana, and OpenTelemetry**. Reported outcomes include **60% fewer deployment failures** and **30% shorter release lead time**.
 
-### 03 / Technical toolkit
+**04 · Multi-tenant SaaS services — Capgemini**  
+Built APIs with **Go and Node.js**, supporting CRM/CMS integrations and full-stack features using **TypeScript and React**. Reported peak handling of **50,000 requests/minute**.
 
-| Domain | Technologies |
+### 03 / How I approach AI systems
+
+<img src="architecture.svg" alt="Illustrative architecture: request to RAG retrieval, LLM agent, grounded answer, with MCP tooling and evaluation guardrails" width="100%" />
+
+*This is a conceptual reference architecture based on technologies I work with, **not** an internal Microsoft system diagram.*
+
+My design priorities are grounded answers, authorization-aware tool execution, observable workflows, and evaluations for retrieval quality, agent task success, and inference latency.
+
+### 04 / Technology landscape
+
+<img src="toolchain.svg" alt="Four engineering domains: AI systems, applications, cloud and reliability" width="100%" />
+
+| Area | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `Go` `TypeScript` `JavaScript` `SQL` `Bash` |
-| **Applied AI** | `Azure OpenAI` `OpenAI API` `RAG` `LangChain` `LangGraph` `MCP` `PyTorch` `LLM Evaluation` `Vector Search` |
-| **Application development** | `FastAPI` `Node.js` `React` `Ember.js` `REST APIs` `GraphQL` |
-| **Cloud & orchestration** | `Azure` `AWS` `AKS` `EKS` `Kubernetes` `Docker` `Terraform` `Bicep` |
-| **Data & observability** | `PostgreSQL` `MongoDB` `Snowflake` `Prometheus` `Grafana` `OpenTelemetry` |
-| **Delivery & testing** | `Azure DevOps` `CI/CD` `Jest` `Supertest` `Cypress` `Unit Testing` `Integration Testing` |
+| **AI engineering** | `Azure OpenAI` `RAG` `LangChain` `LangGraph` `MCP` `PyTorch` `LLM Evaluation` `Vector Search` |
+| **Applications** | `FastAPI` `Node.js` `React` `REST` `GraphQL` |
+| **Cloud & infrastructure** | `Azure` `AWS` `AKS` `EKS` `Kubernetes` `Docker` `Terraform` `Bicep` |
+| **Data & observability** | `PostgreSQL` `MongoDB` `Snowflake` `OpenTelemetry` `Prometheus` `Grafana` |
+| **Delivery & testing** | `CI/CD` `Azure DevOps` `Jest` `Supertest` `Cypress` |
 
-### 04 / Experience
+### 05 / Future open-source build concepts
 
-**Microsoft** — Senior Software Engineer  
-*Aug 2024 – Present · Tempe, Arizona*
+These are **ideas for public portfolio projects**, not completed projects or published repositories:
 
-- Built and evaluated agentic cloud troubleshooting workflows; automated Kubernetes security and Azure infrastructure operations.
-- Improved observability and incident response, reducing **incident detection time by 40%** and **P1 resolution time by 35%**.
+- **RAG Reliability Lab** — An evaluation harness comparing retrieval quality, groundedness, and latency across retrieval strategies.
+- **Agent Tool Security Playground** — A sandbox to explore MCP tool permissions, safe execution, and audit trails.
+- **Cloud Incident Simulator** — A reproducible incident environment for testing agent-assisted diagnosis and operational runbooks.
 
-**Capgemini** — Software Engineer  
-*Oct 2020 – Jul 2023 · Bengaluru, India*
+If I release any of these projects, I will link to the actual source repositories here.
 
-- Delivered full-stack SaaS features and high-throughput microservices.
-- Increased automated test coverage from **42% to 78%** and reduced tenant provisioning time by **70%** using Kubernetes controllers and operators.
+### 06 / Experience & education
 
-### 05 / Education & credentials
-
+**Microsoft** — Senior Software Engineer · *Aug 2024–Present*  
+**Capgemini** — Software Engineer · *Oct 2020–Jul 2023*  
 **Arizona State University** — Master's in Information Technology
 
-- Microsoft: Azure AI Cloud Developer Associate
-- Microsoft: Azure Administrator Associate (AZ-104)
+**Credentials listed on my resume:** Microsoft Azure AI Cloud Developer Associate; Microsoft Azure Administrator Associate (AZ-104). Verification links can be added when available.
 
-*Certification titles are reproduced as listed on my resume; verification links can be added when available.*
+### 07 / GitHub activity
 
-### 06 / GitHub activity
+<div align="center">
+<a href="https://github.com/ArshadShaik01"><img src="activity.gif" alt="Animated decorative burgundy contribution grid, not a live data visualization" width="100%" /></a>
+</div>
 
-<a href="https://github.com/ArshadShaik01">
-  <img src="activity.gif" alt="Animated decorative burgundy GitHub activity visualization — not live contribution data" width="100%" />
-</a>
-
-**[See my actual contributions on GitHub](https://github.com/ArshadShaik01)** — the official profile shows the real contribution calendar. The animated visualization above is decorative, not a record of commits or contribution counts.
+*The animation above is decorative and does not represent actual commit counts or contribution history.* [See my real GitHub contributions](https://github.com/ArshadShaik01).
 
 ---
 
 <div align="center">
 
-<p><strong>Interested in applied AI, reliable developer platforms, and pragmatic engineering?</strong></p>
+**Thoughtful systems. Measurable outcomes. Reliable delivery.**
 
-<p><a href="https://github.com/ArshadShaik01">GitHub profile</a> · <a href="https://github.com/ArshadShaik01?tab=repositories">Public repositories</a></p>
+[GitHub profile](https://github.com/ArshadShaik01) · [Public repositories](https://github.com/ArshadShaik01?tab=repositories)
 
-<img src="footer.gif" alt="Build with clarity. Ship with confidence." width="100%" />
+<img src="footer.gif" alt="Build with clarity, ship with confidence" width="100%" />
 
 </div>

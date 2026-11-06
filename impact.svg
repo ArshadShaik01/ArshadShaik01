@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="t d"><title id="t">Selected engineering impact, based on supplied resume</title><desc id="d">Selected metrics from engineering experience at Microsoft and Capgemini</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset="1" stop-color="#351120"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#701A3D"/><stop offset=".52" stop-color="#E5B5C7"/><stop offset="1" stop-color="#701A3D"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#E5B5C7" stroke-opacity=".045" fill="none"/></pattern>
+</defs><rect width="1200" height="230" rx="22" fill="url(#bg)"/><rect width="1200" height="230" rx="22" fill="url(#grid)"/><text x="48" y="42" fill="#C77B9B" font-size="13" letter-spacing="3" font-weight="700" font-family="Arial,sans-serif">SELECTED OUTCOMES / RESUME-REPORTED</text>
+<g font-family="Arial,sans-serif">
+<path d="M400 73V189M800 73V189" stroke="#C77B9B" stroke-opacity=".25"/>
+<text x="53" y="124" fill="#F8F0F3" font-size="62" font-weight="700">40%</text><text x="53" y="161" fill="#E5B5C7" font-size="17">less incident investigation time</text><text x="53" y="188" fill="#B8A5AF" font-size="13">AI-POWERED TROUBLESHOOTING</text>
+<text x="442" y="124" fill="#F8F0F3" font-size="62" font-weight="700">60%</text><text x="442" y="161" fill="#E5B5C7" font-size="17">fewer deployment failures</text><text x="442" y="188" fill="#B8A5AF" font-size="13">RELEASE ENGINEERING</text>
+<text x="842" y="124" fill="#F8F0F3" font-size="62" font-weight="700">70%</text><text x="842" y="161" fill="#E5B5C7" font-size="17">faster tenant provisioning</text><text x="842" y="188" fill="#B8A5AF" font-size="13">KUBERNETES AUTOMATION</text>
+</g><path d="M50 210H1150" stroke="url(#shine)" stroke-opacity=".6"/></svg>

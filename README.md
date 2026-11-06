@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="assets/hero.svg" alt="Arshad Shaik — Senior Software Engineer working on applied AI and cloud-native systems" width="100%" />
+<img src="hero.svg" alt="Arshad Shaik — Senior Software Engineer working on applied AI and cloud-native systems" width="100%" />
 
 <p><strong>SENIOR SOFTWARE ENGINEER</strong> · Applied AI · Cloud Platforms · Distributed Systems</p>
 
@@ -16,7 +17,7 @@
 
 I'm **Arshad Shaik**, a software engineer with **5+ years of experience** across SaaS platforms, full-stack applications, cloud-native services, and applied AI. My work combines **Python, Go, TypeScript, React, Kubernetes, and LLM-driven applications**, with an emphasis on engineering quality and real-world impact.
 
-<img src="assets/focus.svg" alt="Focus areas: grounded AI systems, cloud infrastructure, and production reliability" width="100%" />
+<img src="focus.svg" alt="Focus areas: grounded AI systems, cloud infrastructure, and production reliability" width="100%" />
 
 ### 02 / Selected engineering work
 
@@ -70,7 +71,7 @@ Built **Go and Node.js** APIs for CRM and CMS integrations, supporting **50,000 
 
 ### 06 / GitHub activity
 
-<a href="https://github.com/ArshadShaik01"><img src="assets/activity.svg" alt="Decorative burgundy contribution-grid motif. This is not real activity data; see the official GitHub profile for actual contributions." width="100%" /></a>
+<a href="https://github.com/ArshadShaik01"><img src="activity.svg" alt="Decorative burgundy contribution-grid motif. This is not real activity data; see the official GitHub profile for actual contributions." width="100%" /></a>
 
 **[See my actual contributions on GitHub](https://github.com/ArshadShaik01)** — the official profile shows the real contribution calendar. The design above is decorative, not a record of commits or contribution counts.
 
@@ -82,6 +83,6 @@ Built **Go and Node.js** APIs for CRM and CMS integrations, supporting **50,000 
 
 <p><a href="https://github.com/ArshadShaik01">GitHub profile</a> · <a href="https://github.com/ArshadShaik01?tab=repositories">Public repositories</a></p>
 
-<img src="assets/footer.svg" alt="Build with clarity. Ship with confidence." width="100%" />
+<img src="footer.svg" alt="Build with clarity. Ship with confidence." width="100%" />
 
 </div>

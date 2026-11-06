@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-labelledby="ars-hero-title ars-hero-desc">
+<title id="ars-hero-title">ARSHAD SHAIK — Senior Software Engineer</title>
+<desc id="ars-hero-desc">Editorial midnight and burgundy profile banner with a technical grid, abstract system graph, glowing rose paths, and restrained orbital animation.</desc>
+<defs>
+  <linearGradient id="ars-hero-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#10070C"/><stop offset="0.53" stop-color="#190B12"/><stop offset="1" stop-color="#451126"/></linearGradient>
+  <linearGradient id="ars-hero-underline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C77B9B"/><stop offset="0.6" stop-color="#F8F0F3"/><stop offset="1" stop-color="#701A3D"/></linearGradient>
+  <linearGradient id="ars-hero-flow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#701A3D"/><stop offset="0.52" stop-color="#E5B5C7"/><stop offset="1" stop-color="#C77B9B"/></linearGradient>
+  <radialGradient id="ars-hero-glow"><stop offset="0" stop-color="#C77B9B" stop-opacity=".30"/><stop offset="1" stop-color="#C77B9B" stop-opacity="0"/></radialGradient>
+  <pattern id="ars-hero-grid" patternUnits="userSpaceOnUse" width="32" height="32"><path d="M32 0H0V32" fill="none" stroke="#E5B5C7" stroke-width=".8" stroke-opacity=".065"/></pattern>
+  <clipPath id="ars-hero-clip"><rect x="0" y="0" width="1200" height="365" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#ars-hero-clip)">
+  <rect width="1200" height="365" fill="url(#ars-hero-bg)"/>
+  <rect width="1200" height="365" fill="url(#ars-hero-grid)"/>
+  <circle cx="991" cy="174" r="253" fill="url(#ars-hero-glow)"><animate attributeName="opacity" values=".65;1;.65" dur="10s" repeatCount="indefinite"/></circle>
+  <g fill="none" stroke="#C77B9B">
+    <circle cx="990" cy="171" r="110" stroke-opacity=".38" stroke-width="1.5"/>
+    <circle cx="990" cy="171" r="154" stroke-opacity=".26" stroke-width="1.2" stroke-dasharray="3 9"/>
+    <circle cx="990" cy="171" r="193" stroke-opacity=".16"/>
+    <path d="M807 171H1184M990 -24V362" stroke-opacity=".14"/>
+  </g>
+  <g stroke="#E5B5C7" stroke-width="1" fill="none" stroke-opacity=".32">
+    <path d="M872 99L943 134L1018 104L1100 141L1063 214L977 251L907 213Z"/>
+    <path d="M943 134L977 251M1018 104L1063 214M907 213L1100 141" stroke-opacity=".18"/>
+  </g>
+  <g fill="#E5B5C7">
+    <circle cx="872" cy="99" r="4" opacity=".6"/><circle cx="943" cy="134" r="4" opacity=".8"/>
+    <circle cx="1018" cy="104" r="6" opacity=".95"/><circle cx="1100" cy="141" r="4" opacity=".7"/>
+    <circle cx="1063" cy="214" r="4" opacity=".75"/><circle cx="977" cy="251" r="5" opacity=".9"/>
+    <circle cx="907" cy="213" r="3" opacity=".7"/>
+  </g>
+  <path d="M845 243C893 152 908 103 990 171S1079 268 1152 93" fill="none" stroke="url(#ars-hero-flow)" stroke-width="3" stroke-linecap="round" stroke-dasharray="370 560" opacity=".85">
+    <animate attributeName="stroke-dashoffset" values="930;0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <g>
+    <circle cx="990" cy="17" r="5.5" fill="#F8F0F3"><animateTransform attributeName="transform" type="rotate" from="0 990 171" to="360 990 171" dur="32s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="66" y="47" width="302" height="28" rx="14" fill="#451126" fill-opacity=".75" stroke="#C77B9B" stroke-opacity=".45"/>
+  <text x="85" y="65.5" fill="#E5B5C7" font-size="12.5" font-family="Arial, Helvetica, sans-serif" letter-spacing="2.6" font-weight="700">APPLIED AI / CLOUD SYSTEMS</text>
+  <text x="65" y="173" fill="#F8F0F3" font-size="75" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-2.7">ARSHAD SHAIK</text>
+  <rect x="70" y="193" width="477" height="3.5" rx="1.75" fill="url(#ars-hero-underline)"><animate attributeName="opacity" values=".7;1;.7" dur="7s" repeatCount="indefinite"/></rect>
+  <text x="70" y="242" fill="#F8F0F3" font-size="24" font-family="Arial, Helvetica, sans-serif" letter-spacing=".3">Senior Software Engineer</text>
+  <text x="70" y="278" fill="#E5B5C7" font-size="17" font-family="Arial, Helvetica, sans-serif" letter-spacing=".7">Intelligent applications. Reliable infrastructure.</text>
+  <g opacity=".92">
+    <circle cx="733" cy="334" r="4" fill="#C77B9B"><animate attributeName="opacity" values="1;.25;1" dur="4s" repeatCount="indefinite"/></circle>
+    <text x="746" y="338" fill="#E5B5C7" font-size="11" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.8">SYSTEMS / SIGNAL / SCALE</text>
+  </g>
+  <text x="70" y="337" fill="#C77B9B" opacity=".88" font-size="13" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">GITHUB.COM/ARSHADSHAIK01</text>
+</g>
+</svg>

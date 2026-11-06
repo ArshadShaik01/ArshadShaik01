@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="hero.gif" alt="Arshad Shaik — Senior Software Engineer working on applied AI and cloud-native systems" width="100%" />
@@ -70,9 +71,11 @@ Built **Go and Node.js** APIs for CRM and CMS integrations, supporting **50,000 
 
 ### 06 / GitHub activity
 
-<a href="https://github.com/ArshadShaik01"><img src="activity.svg" alt="Decorative burgundy contribution-grid motif. This is not real activity data; see the official GitHub profile for actual contributions." width="100%" /></a>
+<a href="https://github.com/ArshadShaik01">
+  <img src="activity.gif" alt="Animated decorative burgundy GitHub activity visualization — not live contribution data" width="100%" />
+</a>
 
-**[See my actual contributions on GitHub](https://github.com/ArshadShaik01)** — the official profile shows the real contribution calendar. The design above is decorative, not a record of commits or contribution counts.
+**[See my actual contributions on GitHub](https://github.com/ArshadShaik01)** — the official profile shows the real contribution calendar. The animated visualization above is decorative, not a record of commits or contribution counts.
 
 ---
 

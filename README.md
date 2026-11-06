@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="hero.svg" alt="Arshad Shaik — Senior Software Engineer working on applied AI and cloud-native systems" width="100%" />
+<img src="hero.gif" alt="Arshad Shaik — Senior Software Engineer working on applied AI and cloud-native systems" width="100%" />
 
 <p><strong>SENIOR SOFTWARE ENGINEER</strong> · Applied AI · Cloud Platforms · Distributed Systems</p>
 
@@ -83,6 +83,6 @@ Built **Go and Node.js** APIs for CRM and CMS integrations, supporting **50,000 
 
 <p><a href="https://github.com/ArshadShaik01">GitHub profile</a> · <a href="https://github.com/ArshadShaik01?tab=repositories">Public repositories</a></p>
 
-<img src="footer.svg" alt="Build with clarity. Ship with confidence." width="100%" />
+<img src="footer.gif" alt="Build with clarity. Ship with confidence." width="100%" />
 
 </div>

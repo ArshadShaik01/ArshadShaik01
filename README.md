@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="hero.gif" alt="Arshad Shaik — Senior Software Engineer working on applied AI and cloud-native systems" width="100%" />
